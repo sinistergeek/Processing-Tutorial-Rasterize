@@ -1,2 +1,2 @@
 # Processing-Tutorial-Rasterize
-![](images/screen.png)
+![](images/image.png)
